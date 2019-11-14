@@ -1,0 +1,24 @@
+{
+  "flags": [
+    {
+      "name": "Azerbaijan",
+      "id": 0,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/2560px-Flag_of_Azerbaijan.svg.png"
+    },
+    {
+      "name": "Armenia",
+      "id": 1,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Armenia.svg/2560px-Flag_of_Armenia.svg.png"
+    },
+    {
+      "name": "Georgia",
+      "id": 2,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/1920px-Flag_of_Georgia.svg.png"
+    },
+    {
+      "name": "Russia",
+      "id": 3,
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/1920px-Flag_of_Russia.svg.png"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "countries": [
+    {
+      "id": 0,
+      "name": "Azerbaijan",
+      "facts": {
+        "capital": "Baku",
+        "language": "Azeri",
+        "president": "Ilham Aliyev"
+      }
+    },
+    {
+      "id": 1,
+      "name": "Armenia",
+      "facts": {
+        "capital": "Yerevan",
+        "language": "Armenian",
+        "president": "Armen Sarkissian"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Georgia",
+      "facts": {
+        "capital": "Tbilisi",
+        "language": "Georgian",
+        "president": "Salome Zourabichvili"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Russia",
+      "facts": {
+        "capital": "Moscow",
+        "language": "Russian",
+        "president": "Vladimir Putin"
+      }
+    }
+  ]
+}

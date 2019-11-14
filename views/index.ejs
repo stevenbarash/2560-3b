@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>API Documentation</title>
+    <link rel="stylesheet" href="/stylesheets/style.css" />
+  </head>
+  <body>
+    <h1>API Documentation</h1>
+
+    <h2>GET: <a href="/countries">/countries</a></h2>
+    <p>
+      Get all countries
+    </p>
+    <h2>POST: /countries/addCountry</h2>
+    <p>
+      Add a new country, be sure to include these parameters in your JSON:
+      <br />
+      <div class="json-code">
+      <code>
+        "id": [unique number], <br />
+        "name": "name of country", <br />
+        "facts": <br />
+        { <br />
+        "capital": "capital of country", <br />
+        "language": "language spoken", <br />
+        "president": "president of country" <br />
+        }
+      </code>
+      </div>
+    </p>
+    <h2>PUT: /countries/updateCountry/:id/</h2>
+    <p>
+      Update country by ID using the JSON format above
+    </p>
+    <h2>DELETE: /countries/updateCountry/:id/</h2>
+    <p>
+      Delete country by ID
+    </p>
+    <h2>GET: /countries/:id/</h2>
+    <p>
+      Get country by ID
+    </p>
+    <h2>GET: <a href="/flags">/flags</a></h2>
+    <p>
+      Get all flags
+    </p>
+  </body>
+</html>
